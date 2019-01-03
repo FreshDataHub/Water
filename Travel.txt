@@ -2,6 +2,7 @@ Packing List
 ------------
 - Dive Gear
 - Wetsuit
+- GoPro
 
 Refreshments
 ------------
